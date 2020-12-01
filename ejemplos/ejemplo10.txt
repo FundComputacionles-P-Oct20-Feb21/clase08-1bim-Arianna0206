@@ -20,4 +20,28 @@
 
 // Promedio de edades: 19.5
 
+1. Inicio
+2. nombre, x(200)[{a-z},{A-Z},{BS}]
+3. apellido, x(200)[{a-z},{A-Z},{BS}]
+4. cadenaFinal, x(200)[{1-9},{a-z},{A-Z}, {BS}] <-- ""
+5. edad, i[0,n]
+6. contadorIteraciones, i[0,n]<-- 0
+7. sumaEdades, i[0,n] <-- 0
+8. promedioEdades, d[0,n]
+9. Para (contadorIteraciones <-- 0, contadorIteraciones <= 4,1)haga
+10.      Escribir "Ingrese el nombre de la persona"
+11.      Leer nombre
+12.      Escribir "Ingrese el apellido de la persona"
+13.      Leer apellido
+14.     Escribir "Ingrese la edad de la persona"
+15.     Leer edad
+16.     sumaEdades <-- sumaEdades + edad
+17.     contadorIteraciones <-- contadorIteraciones + 1
+18.     promedioEdades <-- sumaEdades/contadorIteraciones
+19.     cadenaFinal <-- cadenaFinal + "Nombre:" + nombre + "\n" + "Apellido:" + apellido + 
+        "\n" + "Promedio de edades:" + promedioEdades + "\n"
+20. Fin para
+21. Escribir cadenaFinal
+22.Fin
+
 

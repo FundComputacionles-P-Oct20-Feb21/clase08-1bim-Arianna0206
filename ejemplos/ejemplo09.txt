@@ -7,3 +7,18 @@
 // 30
 // Debe usar la operación aritmética MOD y un ciclo
 // repetitivo Para
+
+1. Inicio
+2. num, i[0,n]
+3. contador, i[0,n] <-- 1
+4. Para(num<--5,contador<=10, 5) haga
+5.     Si (contador MOD 2) == 0 entonces
+6.       Escribir num
+7.       num <-- num + 5
+8.       contador <-- contador + 1
+7.     Fin si
+8. Fin_Para
+5. Escribir num     
+7. Fin
+
+

@@ -30,3 +30,6 @@
 30. Escribir "El resultado de la operación es: " + resultado
 31. Escribir "El tipo de la operación es: " + tipo 
 32. Fin
+
+// Le añadí una linea más para que pueda presentar el resultado y el tipo de operación 
+// En la linea 15 del 4 es 3

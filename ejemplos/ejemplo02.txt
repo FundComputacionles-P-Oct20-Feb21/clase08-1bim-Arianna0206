@@ -2,12 +2,9 @@
 2. edad, i[0,n]
 3. Si edad >= 18 entonces
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
-5. De lo contrario
-6.     Escribir "La edad ingresada pertenece a menor de edad" 
-7. Fin si
-8. Fin
+5. Fin si
+6. Fin
  
+// la salida es : La edad ingresada pertenece a mayor de edad 
 
-// Tiene un error lo que faltaría seria "De lo contrario" porque la mayoría de personas no   
-// tiene la misma edad para ser mayores de edad también va haber menores de edad
  

@@ -1,11 +1,13 @@
 1.  Inicio
 2.  n, i[0-n]
 3.  n <-- 2
-4.  Mientras n <= 2 entonces // Verdadero // Ingresa al ciclo repetitivo
+4.  Mientras n <= 2 entonces // Verdadero // 3<=2 // Falso
 6.    << n
 8.    n <-- n + 1 
 9.  Fin Mientras"
 10. << n
 11. Fin
 
-// la salida es: 3 
+// Pantalla
+// 2
+// 3 

@@ -25,4 +25,4 @@
 24. Fin
 
 // La variable edad le asigne un valor para ver si da o no el descuento
-// La salida es: El valor total a pagar es: 46
+// La salida es: El valor total a pagar es: 23
